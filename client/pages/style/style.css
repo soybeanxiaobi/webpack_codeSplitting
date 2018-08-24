@@ -1,0 +1,26 @@
+.appWried{
+    text-align: center;
+}
+.appBtn{
+        margin-bottom:20px;
+    }
+.appBtn .button{
+    font-size:13px;
+    width:65px;
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+    border:1px solid;
+    border-color:#CCC;
+    background: transparent;
+    border-radius: 5px;
+    cursor:pointer;
+    margin-left:10px;
+    display: inline-block;
+    text-decoration: none;
+    color:inherit;    
+}
+.appBtn .active{
+    color:#F9b041;
+    border-color:#F9b041;
+}
